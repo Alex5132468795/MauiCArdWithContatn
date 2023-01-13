@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp3.NewContent1">
+    <VerticalStackLayout x:Name="cont">
+        <Label Text="Name"></Label>
+        <Label x:Name="name"></Label>
+        <Label Text="Surname"></Label>
+        <Label x:Name="surname"></Label>
+        <Label Text="Futher's name"></Label>
+        <Label x:Name="furna"></Label>
+    </VerticalStackLayout>
+</ContentView>
